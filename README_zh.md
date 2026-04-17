@@ -10,6 +10,12 @@
 - **关系温度计**：通过交互式温度计可视化关系健康状况
 - **主题定制**：通过不同主题自定义应用外观
 
+## 截图
+
+<img src="./docs/home.png" width="200"><img src="./docs/chat.png" width="200"><img src="./docs/ding.png" width="200"><img src="./docs/date.png" width="200">
+
+<img src="./docs/home_dark.png" width="200"><img src="./docs/chat_dark.png" width="200"><img src="./docs/ding_dark.png" width="200"><img src="./docs/date_dark.png" width="200">
+
 ## 系统要求
 
 - iOS 14.0+

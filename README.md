@@ -10,6 +10,12 @@ A modern iOS application for tracking and managing relationships.
 - **Thermometer**: Visualize relationship health with an interactive thermometer
 - **Theming**: Customize app appearance with different themes
 
+## Screenshots
+
+<img src="./docs/home.png" width="200"><img src="./docs/chat.png" width="200"><img src="./docs/ding.png" width="200"><img src="./docs/date.png" width="200">
+
+<img src="./docs/home_dark.png" width="200"><img src="./docs/chat_dark.png" width="200"><img src="./docs/ding_dark.png" width="200"><img src="./docs/date_dark.png" width="200">
+
 ## Requirements
 
 - iOS 14.0+
